@@ -1,0 +1,21 @@
+.container-credit-card{
+    display: flex;
+    flex-direction: row;
+    margin: 3rem;
+    margin-left: 5rem;
+    
+   
+}
+.container-credit-card-two{
+    display: flex;
+    flex-direction: column;
+}
+.container-credit-card-tree{
+    display: flex;
+    flex-direction: column;
+}
+
+.prossbuy{
+	width: 458px;
+	margin-bottom: 5px;
+}
